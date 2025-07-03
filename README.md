@@ -1,4 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TSSQHNRpSqVc_ySMPqUPJspzEMNVPwEj#scrollTo=-t-1L0cx6JSz)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]([https://huggingface.co/spaces/akhaliq/yolov7](https://huggingface.co/pranaymaheshwaram/Text-summarizaer-fine-tuned-BART))
 
 
 # Text Summarizer using Fine-Tuned BART
