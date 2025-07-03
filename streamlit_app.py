@@ -6,7 +6,7 @@ import time
 # Load your fine-tuned BART model and tokenizer
 @st.cache_resource
 def load_model():
-    model_path = "saved_model"
+    model_path = "pranaymaheshwaram/Text-summarizaer-fine-tuned-BART"
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
     return tokenizer, model
