@@ -92,9 +92,13 @@ The model we developed:
 * Streamlit
 
 ---
+#The Interface:
 ![Screenshot 2025-07-03 121120](https://github.com/user-attachments/assets/90560842-41d3-4bb2-b314-e96c78860667)
-![Screenshot 2025-07-03 121207](https://github.com/user-attachments/assets/c815d391-18d4-4b55-8159-52c66a1adb01)
+#Drop in the large text
 ![Screenshot 2025-07-03 121136](https://github.com/user-attachments/assets/44ac27c7-c899-4213-8442-b5b28ccae6ce)
+#Get an instant overview of the text
+![Screenshot 2025-07-03 121207](https://github.com/user-attachments/assets/c815d391-18d4-4b55-8159-52c66a1adb01)
+
 
 ## 📄 License
 
