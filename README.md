@@ -1,7 +1,3 @@
-Here’s a clean, well-structured `README.md` for your GitHub repository:
-
----
-
 # Text Summarizer using Fine-Tuned BART
 
 This project demonstrates a complete pipeline for abstractive text summarization using a fine-tuned BART transformer model. The model is trained on a custom dataset (other than CNN/DailyMail) and deployed via a Streamlit application. The entire process includes data preparation, model training, Hugging Face model upload, and deployment.
