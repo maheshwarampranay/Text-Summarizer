@@ -4,7 +4,7 @@
 [[Access model on Huggingface]](https://huggingface.co/pranaymaheshwaram/Text-summarizaer-fine-tuned-BART)
 
 
-# Text Summarizer using Fine-Tuned BART
+# Text Summarizer using Fine-Tuned BART 
 
 This project demonstrates a complete pipeline for abstractive text summarization using a fine-tuned BART transformer model. The model is trained on a custom dataset (other than CNN/DailyMail) and deployed via a Streamlit application. The entire process includes data preparation, model training, Hugging Face model upload, and deployment.
 
